@@ -6,6 +6,6 @@
 
 (3) Write a program to display different start patterns on screen.
 
-### ***Output Screenshot :
+### ***Output Screenshot*** :
 
 (1)
