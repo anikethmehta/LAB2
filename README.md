@@ -14,7 +14,7 @@
 
 (2) Code : https://github.com/anikethmehta/LAB2/blob/main/part2%20code.png
 
-(2) Output :
+(2) Output : https://github.com/anikethmehta/LAB2/blob/main/part2%20output.png
 
 (3) Code :
 
