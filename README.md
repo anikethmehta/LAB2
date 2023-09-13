@@ -8,4 +8,6 @@
 
 ### ***Output Screenshot*** :
 
-(1)
+(1) Code : https://github.com/anikethmehta/LAB2/blob/main/part1%20code.png
+
+(1) Output: 
