@@ -22,7 +22,7 @@
 
 (3) Code1 : https://github.com/anikethmehta/LAB2/blob/main/part3%20code1.png
 
-(3) Output1 :
+(3) Output1 : https://github.com/anikethmehta/LAB2/blob/main/part3%20output1.png
 
 (3) Code2 :
 
