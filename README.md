@@ -18,7 +18,7 @@
 
 (3) Code : https://github.com/anikethmehta/LAB2/blob/main/part3%20code.png
 
-(3) Output :
+(3) Output : https://github.com/anikethmehta/LAB2/blob/main/part3%20output.png
 
 (3) Code1 :
 
