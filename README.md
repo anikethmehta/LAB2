@@ -26,4 +26,4 @@
 
 (3) Code2 : https://github.com/anikethmehta/LAB2/blob/main/part3%20code2.png
 
-(3) Output2 :
+(3) Output2 : https://github.com/anikethmehta/LAB2/blob/main/part3%20output2.png
