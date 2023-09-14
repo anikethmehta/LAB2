@@ -31,7 +31,26 @@
 
   (iii) print the numbers in incremented form
 
+### ***Explanation*** : 
 
+(1) : 
+
+  (i) sizeof() function gives the size of variables in bytes.
+
+(2) :
+
+  (i) using scanf() fuction number can be taken from user
+
+  (ii) for printing the table we use printf() function 
+
+ (3) :
+
+  (i) : check for the rows,columns and spaces
+
+  (ii) : nested for loops are used to iterate 
+
+  (iii) : for printing spaces and pattern printf() function is used
+ 
 ### ***Output Screenshot*** :
 
 (1) Code : https://github.com/anikethmehta/LAB2/blob/main/part1%20code.png
