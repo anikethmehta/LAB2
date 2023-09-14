@@ -6,6 +6,32 @@
 
 (3) Write a program to display different start patterns on screen.
 
+### ***Algorithms*** :
+(1) : 
+
+  (i)initialize the variables to different data types
+
+  (ii) print the size of different data types using sizeof() 
+
+(2) :
+
+   (i) enter the number
+   
+   (ii) take the number
+   
+   (iii) iterate for loop from 1 to 10
+
+   (iv) print the table 
+
+(3) :
+
+  (i) iterate for loop for rows and columns
+
+  (ii) get the condition for printing empty spaces
+
+  (iii) print the numbers in incremented form
+
+
 ### ***Output Screenshot*** :
 
 (1) Code : https://github.com/anikethmehta/LAB2/blob/main/part1%20code.png
