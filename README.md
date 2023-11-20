@@ -1,3 +1,4 @@
+### ***Date*** : 23-29 August 2023
 ### ***Title*** : LAB2
 ### ***Aim*** : 
 (1) Write a C program to print size of different data types.
